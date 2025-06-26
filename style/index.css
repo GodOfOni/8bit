@@ -1,0 +1,16 @@
+:root { --font-primary: 'Raleway', sans-serif;
+  --font-secondary: 'Roboto', sans-serif;
+  --color-primary: #2a4d69;
+  --color-secondary: #4b86b4;
+  --color-light: #f4f4f4;
+  --color-dark: #333;
+  --spacing: 1.6rem;
+  --max-width: 1200px;}
+  .header {
+    background-color: #7143a5;
+  }
+  .header_logo {
+    max-height: 150px;}
+.logo {
+    max-height: 90px;
+}
